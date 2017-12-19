@@ -6,4 +6,10 @@
     <string name = "api_key">41234b82fb514a61a1983111628fa759</string>
     <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
     <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Face API calls.</string>
+
+    <string name="authenticationUri"/>
+    <string name="luisAppID">yourLuisAppID</string>
+    <string name="luisSubscriptionID">yourLuisSubscriptionID</string>
+    <string name="action_settings">Settings</string>
+
 </resources>
